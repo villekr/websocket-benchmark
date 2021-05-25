@@ -1,4 +1,4 @@
-# Pythpn / uWebSockets
+# Python / uWebSockets
 
 Simple Python websocket benchmark server using [uWebSockets](https://pypi.org/project/uWebSockets/)-library.
 

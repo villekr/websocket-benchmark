@@ -4,11 +4,11 @@ Websocket benchmark report and analysis.
 
 Validating research results [Websocket Performance Comparison](https://matttomasetti.medium.com/websocket-performance-comparison-10dc89367055).
 
-## Related repositories:
+## Benchmark servers:
 
-* [Python / uWebSockets](./python-uwebsockets/README.md)
-* [Python / websockets](./python-websockets/README.md)
-* [Python / ASGI](./python-asgi/README.md)
+* [Python / uWebSockets](./python-uwebsockets)
+* [Python / websockets](./python-websockets)
+* [Python / ASGI](./python-asgi)
 
 ## Other repositories that we're used in this benchmark:
 
