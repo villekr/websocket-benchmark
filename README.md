@@ -10,7 +10,7 @@ Validating research results [Websocket Performance Comparison](https://matttomas
 * [Python / websockets](./python-websockets)
 * [Python / ASGI](./python-asgi)
 
-## Other repositories that we're used in this benchmark:
+## Other repositories that were used in this benchmark:
 
 * [Benchmark client](https://github.com/matttomasetti/NodeJS_Websocket-Benchmark-Client)
 * [Nodejs / uWebSocket](https://github.com/matttomasetti/NodeJS-uWS_Websocket-Benchmark-Server)
